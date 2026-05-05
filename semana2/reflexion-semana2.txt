@@ -1,0 +1,9 @@
+Es de vital importancia para un desarrollador dominar el uso de la terminal para navegar y organizar archivos dentro de un proyecto. La terminal permite una gestión eficiente de directorios y archivos, automatizando tareas que de otro modo serían repetitivas y lentas.
+
+Con la terminal, los desarrolladores pueden crear, modificar y eliminar archivos de manera rápida, sin depender de interfaces gráficas. Esto mejora la productividad significativamente, especialmente cuando se trabaja con proyectos grandes con múltiples carpetas y archivos.
+
+Además, el control de versiones con Git se realiza principalmente desde la terminal. Sin estas habilidades, es imposible colaborar efectivamente en equipos de desarrollo moderno.
+
+La terminal también facilita la ejecución de scripts, compilación de código y la automatización de procesos, herramientas esenciales en cualquier flujo de trabajo profesional.
+
+En conclusión, la terminal es una herramienta fundamental que todo desarrollador debe dominar para ser eficiente y competitivo en la industria tecnológica.
